@@ -1,6 +1,6 @@
 import React, { Component } from "react";
-import NewTask from '../Components/NewTask';
-import List from '../Components/List';
+import NewTask from './Components/NewTask';
+import List from './Components/List';
 import "./App.css";
 
 class App extends Component {
